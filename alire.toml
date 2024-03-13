@@ -1,0 +1,9 @@
+name = "script"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Nancy"]
+maintainers = ["Nancy <NancyLykins@proton.me>"]
+maintainers-logins = ["NancyLykins"]
+
+executables = ["script"]
